@@ -1,0 +1,21 @@
+html{
+    background: linear-gradient(black, purple);
+  }
+
+div{
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 10px;
+    color: rgb(255, 255, 255);
+    text-align: center;
+  }
+#moment{
+    font-family: "Libre Baskerville", serif;
+    text-transform: uppercase;
+  }
+
+#image{    
+    background-color: black;
+    border: 5px solid ;
+    width: 100%;
+  }  
